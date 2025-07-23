@@ -55,7 +55,7 @@ a {
 }
 .tiket-img::after {
   content: "";
-  background: linear-gradient(180deg, transparent 70%, rgba(66, 66, 66, 0.7));
+  background: linear-gradient(180deg, transparent 65%, rgba(31, 31, 31, 0.7));
   position: absolute;
   top: 0;
   left: 0;
